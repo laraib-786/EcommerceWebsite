@@ -1,0 +1,100 @@
+1,Product B,238.73,Brand Y,Clothing,Kitchen,2027-10-28,2026-01-22
+2,Product D,87.88,Brand Y,Electronics,Laptops,2027-02-04,2026-10-05
+3,Product C,233.15,Brand W,Clothing,Pants,2027-07-08,2026-09-24
+4,Product E,256.28,Brand Y,Electronics,Kitchen,2027-12-09,2026-02-26
+5,Product B,197.81,Brand W,Health,Kitchen,2027-11-29,2026-02-20
+6,Product C,402.3,Brand X,Health,Furniture,2027-02-14,2026-11-22
+7,Product E,285.06,Brand Z,Clothing,Laptops,2028-04-07,2026-12-24
+8,Product E,402.99,Brand X,Home & Garden,Kitchen,2028-11-16,2026-09-10
+9,Product E,120.93,Brand X,Clothing,Kitchen,2019-05-31,2022-01-17
+10,Product B,376.81,Brand Z,Electronics,Kitchen,2019-08-17,2022-07-17
+11,Product C,441.68,Brand Y,Health,Furniture,2019-05-16,2020-06-12
+12,Product E,182.47,Brand X,Home & Garden,Kitchen,2019-05-08,2020-12-02
+13,Product E,190.43,Brand Y,Home & Garden,Pants,2018-04-12,2020-11-23
+14,Product C,458.11,Brand W,Home & Garden,Pants,2018-04-19,2020-09-30
+15,Product E,59.62,Brand Y,Home & Garden,Shirts,2018-02-01,2018-03-11
+16,Product C,253.96,Brand W,Clothing,Shirts,2019-11-12,2021-05-26
+17,Product C,152.52,Brand W,Electronics,Laptops,2019-11-06,2021-09-12
+18,Product D,430.32,Brand W,Home & Garden,Phones,2018-05-06,2018-06-30
+19,Product A,423.0,Brand W,Clothing,Shirts,2018-06-24,2019-08-14
+20,Product C,114.71,Brand W,Health,Furniture,2018-09-17,2019-05-15
+21,Product E,311.1,Brand Y,Electronics,Pants,2018-08-08,2021-06-13
+22,Product C,387.36,Brand Y,Clothing,Furniture,2019-09-07,2020-12-29
+23,Product E,51.89,Brand W,Electronics,Pants,2019-12-12,2021-07-26
+24,Product C,217.39,Brand W,Health,Phones,2019-09-17,2021-11-12
+25,Product C,346.32,Brand W,Clothing,Phones,2019-06-05,2022-01-21
+26,Product E,263.77,Brand Z,Clothing,Pants,2018-09-23,2021-04-18
+27,Product B,414.82,Brand W,Health,Furniture,2018-03-10,2020-05-29
+28,Product A,92.39,Brand Z,Clothing,Laptops,2018-05-27,2021-05-18
+29,Product C,237.27,Brand Z,Health,Furniture,2019-06-13,2021-08-30
+30,Product B,356.91,Brand W,Clothing,Phones,2019-01-28,2019-11-18
+31,Product A,349.77,Brand Z,Electronics,Phones,2019-06-08,2019-12-24
+32,Product E,160.89,Brand Z,Clothing,Furniture,2018-12-23,2019-05-14
+33,Product C,496.35,Brand Z,Health,Laptops,2019-07-26,2020-05-16
+34,Product B,181.98,Brand Y,Health,Phones,2018-02-05,2019-05-13
+35,Product B,455.3,Brand Z,Electronics,Furniture,2019-01-22,2020-08-03
+36,Product B,129.17,Brand Y,Home & Garden,Kitchen,2019-01-22,2019-05-20
+37,Product A,268.25,Brand Z,Clothing,Pants,2019-10-20,2020-02-17
+38,Product B,339.06,Brand Y,Home & Garden,Pants,2019-02-06,2021-03-25
+39,Product E,129.76,Brand Y,Home & Garden,Pants,2019-05-21,2019-08-18
+40,Product D,34.12,Brand Y,Health,Furniture,2018-12-21,2021-11-15
+41,Product A,391.55,Brand Y,Electronics,Shirts,2019-11-04,2021-05-06
+42,Product D,319.46,Brand W,Home & Garden,Furniture,2018-02-17,2019-07-26
+43,Product C,296.08,Brand Y,Clothing,Laptops,2019-10-03,2022-09-25
+44,Product A,283.36,Brand W,Health,Kitchen,2018-06-01,2019-09-10
+45,Product B,447.86,Brand Z,Health,Furniture,2019-08-31,2021-05-21
+46,Product B,121.0,Brand Z,Electronics,Kitchen,2019-01-10,2021-04-08
+47,Product A,477.0,Brand W,Electronics,Furniture,2019-11-03,2020-08-10
+48,Product A,306.39,Brand X,Electronics,Phones,2018-09-24,2019-05-17
+49,Product B,384.34,Brand W,Electronics,Furniture,2019-12-24,2020-02-12
+50,Product A,144.08,Brand Z,Home & Garden,Kitchen,2018-03-05,2019-01-29
+51,Product B,419.43,Brand W,Electronics,Shirts,2018-04-28,2020-05-23
+52,Product C,304.83,Brand Y,Health,Phones,2018-05-26,2020-11-15
+53,Product E,102.02,Brand W,Home & Garden,Shirts,2018-12-04,2021-07-19
+54,Product B,43.03,Brand X,Clothing,Shirts,2019-01-13,2019-04-09
+55,Product C,377.63,Brand X,Clothing,Kitchen,2019-08-28,2020-08-20
+56,Product A,394.64,Brand X,Clothing,Kitchen,2018-08-28,2020-10-20
+57,Product C,413.75,Brand Y,Health,Furniture,2018-08-11,2021-08-02
+58,Product E,63.31,Brand X,Home & Garden,Laptops,2019-10-05,2020-01-27
+59,Product E,442.94,Brand W,Health,Pants,2018-03-08,2020-02-18
+60,Product C,67.92,Brand Y,Home & Garden,Kitchen,2018-02-15,2018-11-02
+61,Product C,405.26,Brand X,Home & Garden,Furniture,2018-11-26,2019-10-05
+62,Product D,35.49,Brand X,Clothing,Furniture,2018-10-05,2020-10-10
+63,Product C,228.39,Brand Y,Electronics,Kitchen,2019-12-21,2022-03-01
+64,Product E,464.77,Brand Z,Home & Garden,Laptops,2018-07-07,2018-09-26
+65,Product A,42.93,Brand Y,Health,Kitchen,2018-01-04,2018-09-30
+66,Product A,299.2,Brand Z,Health,Phones,2019-07-31,2020-06-27
+67,Product D,211.12,Brand X,Clothing,Phones,2018-04-03,2019-03-11
+68,Product B,13.04,Brand Z,Home & Garden,Phones,2018-08-06,2018-09-23
+69,Product A,157.39,Brand X,Clothing,Kitchen,2018-09-17,2021-09-04
+70,Product C,244.19,Brand W,Home & Garden,Pants,2019-02-20,2021-09-05
+71,Product C,356.21,Brand Z,Health,Pants,2018-09-10,2021-09-01
+72,Product C,472.49,Brand Y,Clothing,Pants,2018-08-22,2020-10-25
+73,Product E,264.75,Brand Y,Home & Garden,Phones,2019-04-10,2019-08-04
+74,Product C,85.0,Brand Z,Electronics,Phones,2018-03-01,2019-08-11
+75,Product D,144.99,Brand Y,Electronics,Laptops,2018-07-01,2020-08-06
+76,Product C,250.36,Brand W,Home & Garden,Laptops,2019-09-23,2022-06-18
+77,Product C,146.21,Brand Z,Health,Shirts,2019-07-26,2019-12-05
+78,Product C,255.59,Brand W,Clothing,Laptops,2019-10-13,2020-03-19
+79,Product A,363.52,Brand Z,Health,Pants,2018-02-28,2020-02-03
+80,Product D,306.4,Brand X,Electronics,Pants,2019-05-31,2020-01-17
+81,Product B,340.01,Brand X,Clothing,Laptops,2019-03-13,2022-02-12
+82,Product D,193.16,Brand Y,Health,Kitchen,2018-08-28,2019-03-15
+83,Product E,191.8,Brand W,Clothing,Furniture,2019-02-16,2020-02-04
+84,Product C,412.38,Brand Y,Clothing,Kitchen,2018-10-22,2021-03-01
+85,Product A,463.27,Brand X,Health,Laptops,2018-06-12,2019-11-05
+86,Product E,25.17,Brand Z,Electronics,Kitchen,2019-11-17,2022-01-12
+87,Product A,191.59,Brand X,Home & Garden,Phones,2019-06-30,2020-04-01
+88,Product B,360.53,Brand Y,Health,Laptops,2019-09-23,2021-12-17
+89,Product B,126.44,Brand W,Health,Kitchen,2018-04-01,2018-07-21
+90,Product C,51.83,Brand W,Clothing,Pants,2018-08-03,2020-03-14
+91,Product A,125.03,Brand Z,Electronics,Shirts,2018-02-21,2019-01-27
+92,Product D,434.57,Brand Y,Home & Garden,Furniture,2018-11-01,2020-06-22
+93,Product B,48.42,Brand W,Home & Garden,Kitchen,2018-12-04,2020-01-24
+94,Product D,492.03,Brand W,Home & Garden,Furniture,2019-06-13,2020-01-11
+95,Product B,104.28,Brand Y,Health,Laptops,2018-10-04,2019-08-18
+96,Product E,81.11,Brand W,Clothing,Laptops,2018-04-13,2018-12-03
+97,Product E,282.7,Brand Y,Home & Garden,Shirts,2018-03-05,2019-01-25
+98,Product C,464.87,Brand X,Electronics,Furniture,2019-11-03,2019-12-23
+99,Product E,492.8,Brand Z,Electronics,Laptops,2018-05-14,2018-11-20
+100,Product D,485.58,Brand Y,Electronics,Phones,2019-06-20,2022-04-28

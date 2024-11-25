@@ -1,9 +1,8 @@
 package com.example.EcommerceWebsite.model;
 
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
-import lombok.RequiredArgsConstructor;
+import lombok.*;
+import org.springframework.format.annotation.DateTimeFormat;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
@@ -17,6 +16,9 @@ import java.time.LocalDate;
 @Entity
 @Table(name = "product")
 @AllArgsConstructor
+@NoArgsConstructor
+@Setter
+@Getter
 public class Product {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -37,9 +39,10 @@ public class Product {
     @Column(name = "sub_category", length = 255)
     private String subCategory;
 
+    @DateTimeFormat(pattern = "yyyy-MM-dd")
     @Column(name = "expiry_date")
     private LocalDate expiryDate;
-
+    @DateTimeFormat(pattern = "yyyy-MM-dd")
     @Column(name = "manufacturing_date")
     private LocalDate manufacturingDate;
 
@@ -56,6 +59,43 @@ public class Product {
                 ", expiryDate=" + expiryDate +
                 ", manufacturingDate=" + manufacturingDate +
                 '}';
+    }
+
+    public LocalDate getExpiryDate() {
+        return expiryDate;
+    }
+
+
+    public void setManufacturingDate(LocalDate manufacturingDate) {
+        this.manufacturingDate = manufacturingDate;
+    }
+
+    public void setId(long id) {
+        this.id =  id;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setPrice(BigDecimal price) {
+        this.price = price;
+    }
+
+    public void setBrandName(String brandName) {
+        this.brandName = brandName;
+    }
+
+    public void setMainCategory(String mainCategory) {
+        this.mainCategory = mainCategory;
+    }
+
+    public void setSubCategory(String subCategory) {
+        this.subCategory = subCategory;
+    }
+
+    public void setExpiryDate(LocalDate expiryDate) {
+        this.expiryDate = expiryDate;
     }
 }
 
